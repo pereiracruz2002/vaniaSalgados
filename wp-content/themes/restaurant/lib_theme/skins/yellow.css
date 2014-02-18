@@ -1,0 +1,15 @@
+/* YELLOW skin */
+
+body{ background-color:#F7F5AA; border-color:#E1E0B5 }
+#header_area .nav-menu li.current-menu-item a { background-color:#C6C691; color:#ffffff }
+.widget .nav-menu li:hover { background-color:#E1E0B5 }
+.menu_area thead th  { background-color:#E1E0B5 }
+
+
+
+
+
+
+
+
+

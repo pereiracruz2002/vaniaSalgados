@@ -1,0 +1,113 @@
+*** BizzThemes Theme Changelog **
+
+LEGEND
+    * [release]
+	* [feature]
+	* [fix]
+	* [improved]
+	* [deprecated]
+	
+2013.12.13- version 1.9.3
+	* [improved]	WordPress 3.8 compatibility fixes and features
+	
+2013.08.03 - version 1.9.2
+	* [improved]	slider script updated
+	
+2013.08.03 - version 1.9.1
+	* [fix]			contants redefine, child theme compatibility
+	* [fix]			added stylesheet path instead of template path
+	* [improved]	changed translations
+	* [fix]			comments.php file fix
+	* [fix]			tooltips for pricing now work
+	
+2013.05.13 - version 1.9.0
+	* [improved]	faster page rendering
+	* [improved]	updated translations
+	* [improved]	updated dummy content
+	
+2013.03.26 - version 1.8.0
+	* [improved]	updated translations
+	* [improved]	woocommerce 2.0 support
+	* [improved]	template builder overhaul
+	
+2012.10.30 - version 1.7.0
+	* [improved]	updated translations
+	* [improved]	native WP jQuery by default
+	* [improved] 	easier/better grid definition inside lib_theme/theme_widgets.php file
+	
+2012.10.26 - version 1.6.0
+	* [feature]	added out-of-the-box support for e-commerce plugins (WooCommerce, JigoShop, etc.)
+	
+2012.08.29 - version 1.5.0
+	* [improved]	updated translations
+	* [improved]	updated dummy content
+	* [improved] 	updated jQuery to 1.8.0
+	* [feature]		Added full Twitter Bootstrap library support 2.1.0
+	* [improved] 	updated Social Links widget
+	
+2012.07.27 - version 1.4.0
+	* [improved]	heavily updated framework compatibility
+	* [improved]	added price filter
+	
+2012.06.12 - version 1.3.0
+	* [improved]	updated jQuery to 1.7.2
+	* [fix]			meal ordering now works
+	* [fix]			added wp_reset_query() function to the menu widget
+	
+2012.03.12 - version 1.2.1
+	* [improved]	updated translations
+	* [improved]	moved jQuery to header
+	* [improved]	added dummy content XML file
+	
+2012.02.12 - version 1.2.0
+	* [fix]			custom template removed
+	* [fix]			pricing tooltips in Firefox browser
+	* [fix]			updated translations
+	
+2011.12.15 - version 1.1.1
+	* [fix]			sitemap template removed
+	* [fix]			adding template Builder widgets condition logic
+
+2011.12.13 - version 1.1.0
+	* [improved]	post meta boxes
+	* [improved]	updated jQuery to 1.7.1
+	* [feature]		added Table editing for post editor
+	* [feature]		added page templates
+	* [improved]	updated code for all custom post types
+	* [improved]	updated translation library inside "custom/lang" folder
+	* [improved]	compressed all images
+	
+2011.06.14 - version 1.0.9
+	* [improved]	jQuery in footer
+	
+2011.03.11 - version 1.0.8
+	* [improved]	added active menu item color design option
+	
+2011.03.09 - version 1.0.7
+	* [improved]	better default configuration
+	
+2011.02.25 - version 1.0.6
+	* [fix]			PHP 4 public class
+	
+2011.02.23 - version 1.0.5
+	* [improved]	price .00 optional
+	
+2011.02.15 - version 1.0.4
+	* [fix]			Design control after pagination fix
+	* [improved]	Options file updated
+	* [improved]	Performance increase
+
+2011.01.12 - version 1.0.3
+	* [fix]			bizz_register_grids hook fixed
+	
+2011.01.08 - version 1.0.2
+	* [fix]			bizz_register_grids is now hooked insisde init action
+	
+2011.01.06 - version 1.0.1
+	* [improved]	Added widget IDs for before all widgets
+	* [improved]	jQuery no conflicts
+	* [deprecated]	Branding widget - replaced with branding filter
+	* [feature]		Multiple sizes/pricing for menu items
+	
+2010.12.12 - version 1.0
+	* [release]		Initial theme release.

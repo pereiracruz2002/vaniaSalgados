@@ -1,0 +1,15 @@
+/* COFFEE skin */
+
+body{ background-color:#EDE1D3; border-color:#6F3701 }
+#header_area .nav-menu li.current-menu-item a { background-color:#6F3701; color:#ffffff }
+.widget .nav-menu li:hover { background-color:#E2CDBC }
+.menu_area thead th  { background-color:#E2CDBC }
+
+
+
+
+
+
+
+
+
